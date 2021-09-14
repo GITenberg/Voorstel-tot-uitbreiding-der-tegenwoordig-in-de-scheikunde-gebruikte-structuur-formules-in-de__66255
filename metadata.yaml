@@ -1,11 +1,16 @@
 _repo: Voorstel-tot-uitbreiding-der-tegenwoordig-in-de-scheikunde-gebruikte-structuur-formules-in-de__66255
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66255-h/images/cover.jpg
 creator:
   author:
     agent_name: Hoff, Jacobus Henricus van 't
     gutenberg_agent_id: '53713'
     url: http://www.gutenberg.org/2009/agents/53713
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66255#Voorstel-tot-uitbreiding-der-tegenwoordig-in-de-scheikunde-gebruikte-structuur-formules-in-de_
 gutenberg_issued: '2021-09-10'
 identifiers:
   gutenberg: '66255'
